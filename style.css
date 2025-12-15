@@ -107,7 +107,7 @@ body{
 .project{
     position: relative;
     width: 310px;
-    height: 355px;
+    height: 375px;
     border: 1px solid #000;
     box-shadow: 0 3px 8px #0000003d;
     border-radius: 8px;
@@ -126,6 +126,7 @@ h5{
 
 .project p{
     margin-bottom:30px;
+    padding: 10px;
 }
 
 .syllabus {
