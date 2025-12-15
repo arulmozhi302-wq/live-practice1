@@ -156,7 +156,7 @@ h5{
     padding: 20px;
     text-align: center;
     background-color: pink;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .contact form{
@@ -171,8 +171,8 @@ h5{
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #555;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     margin-bottom: 10px;
 }
 
@@ -181,7 +181,8 @@ h5{
     padding: 10px;
     border-radius: 5px;
     border: none;
-    background-color: burlywood;
+    background-color: #3f1111;
+    color:#fff;
 }
 
 .social-links a i{
@@ -196,7 +197,7 @@ h5{
 
 .social-links a{
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
     margin: 0 10px;
     padding: 10px;
 }
